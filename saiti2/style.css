@@ -1,0 +1,722 @@
+header{
+ background-color: rgb(255, 250, 243);
+    display:  flex;
+    
+}
+
+.Navigation  a{
+    text-decoration: none;
+    color: #052812;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Navigation{
+    display: flex;
+    gap: 30px;
+    margin-left: auto;
+    align-items: center;
+    padding-right: 50px;
+}
+.Title {
+    font-family:  Arial, Helvetica, sans-serif;
+    color: #052812;
+    
+}
+
+
+ 
+    
+
+
+
+
+
+.textContainer{
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+}
+
+.button1{
+
+
+    border: none;
+    border-radius: 50px;
+    padding: 10px 20px;
+    font-size: 16px;
+
+}
+
+.img1 {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.test1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.textContainer1{
+    display: flex;
+    flex-direction: column;
+}
+
+.textContainer1 h3{
+    width: 447.39px;
+    height: 118px;
+}
+
+.img2{
+    width: 475px;
+    height: 312px;
+}
+
+.img3{
+    width: 766.79px;
+    height: 891.62px;
+}
+
+.container2{
+    display: flex;
+width: 100%;
+justify-content: space-around;
+
+}
+.img4{
+    width: auto;
+    height: 401px;
+}
+
+.cardsContainer{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+
+}  
+ .container3{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap:  20px;
+}
+
+.textContainer2{
+    display: flex;
+    flex-direction: column;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+input, textarea{
+    width: 400px;
+    height: 40px;
+    border: 1px solid #a7a5a5;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    padding: 5px;
+}
+
+.container4{
+    display: flex;
+        align-items: baseline;
+    justify-content: space-around;
+}
+
+.blankContainer h3{
+    width: 279px;
+    height: 93.63px;
+}
+
+.onliImageContainer img{
+    width: 2079.89px;
+    height: 899.64px;
+    object-fit: contain;
+}
+
+.onliImageContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container5{
+    display: flex;
+   justify-content: space-around;
+  
+}
+
+
+.textContainer3{
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.textContainer4{
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+} 
+
+ body{
+    margin: 0;
+    padding: 0;
+   
+}
+
+
+
+main{
+    display: flex;
+    flex-direction: column;
+    gap: 100px;
+} 
+
+.container1 h1 {
+    font-size: 82px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.textContainer h2 {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.button1 {
+    background-color: #052812;
+    text-decoration: none;
+    border: 1px solid black;
+}
+
+.button1 a{
+    text-decoration: none;
+    color: rgb(245, 241, 241);
+}
+
+.button1 :hover {
+    background-color: #a7a5a5;
+}
+
+.button1 a :hover {
+    color: black;
+}
+
+.photoContainer { 
+    display: flex;
+    flex-direction: column;
+    gap: 125px;
+}
+
+.textContainer1 h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+
+}
+
+.textContainer1 h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.container2 {
+     background-color: #367c3b;
+}
+
+.ReadMore {
+    background-color: #052812;
+    text-decoration: none;
+    border: 1px solid black;
+    border-radius: 50px;
+}
+
+.ReadMore a {
+    text-decoration: none;
+    color: rgb(245, 241, 241);
+    font-size: 25px;
+}
+
+.ReadMore :hover {
+    background-color: #a7a5a5;
+}
+
+.ReadMore a {
+    color: white;
+}
+
+.container5 {
+    background-color: #367c3b;
+}
+
+.container5 h1, h2, h3{
+    color: white;
+}
+
+header{
+    position: sticky;
+    top: 0;
+}
+
+.container1{
+    background-color: rgb(255, 250, 243);
+}
+
+.container1 h1, h2{
+    color: black;
+}
+
+.test1{
+    background-color: rgb(255, 250, 243);
+}
+body{
+    background-color: rgb(255, 250, 243);
+}
+
+.cards h1, h2, h3{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.container4 h1, h2, h3{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.smalltext{
+    color: black;
+}
+
+.input1{
+    border-top: none;
+    background-color: rgb(255, 250, 243);
+    border-left:    none ;
+    border-right: none;
+    border-bottom: black  2px solid; ;
+}
+
+.textContainer h2{
+  color: black;
+}
+
+form label{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+form textarea{
+     border-top: none;
+    background-color: rgb(255, 250, 243);
+    border-left:    none ;
+    border-right: none;
+    border-bottom: black  2px solid; ;
+}
+
+.container5 h1, h2, h3{
+    color: white;
+}
+
+.text1 h2, h3{
+     font-weight: lighter;
+}
+
+.text2 h2, h3{
+     font-weight: lighter;
+}
+
+.textContainer3 h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+
+.text4 h2, h3{
+     font-weight: lighter;
+}
+
+
+.SubmitButton {
+    width: 100%;
+    padding: 15px 0;
+    background-color: #032612;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+.SubmitButton a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    display: block;
+    width: 100%;
+}
+
+.SubmitButton:hover {
+    background-color: #05641e;
+}
+
+.textContainer2{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+
+
+@media (max-width: 600px) {
+
+    header {
+        flex-direction: column;
+        align-items: center;
+        padding: 20px 0;
+    }
+
+    .Navigation {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 15px;
+        padding-right: 0;
+    }
+
+    .container1 h1 {
+        font-size: 42px;
+        text-align: center;
+    }
+
+    .textContainer {
+        flex-direction: column;
+        gap: 10px;
+        text-align: center;
+    }
+
+    .linkContainer {
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+    }
+
+    .container2 {
+        flex-direction: column;
+        align-items: center;
+        padding: 20px;
+        gap: 40px;
+    }
+
+    .photoContainer {
+        flex-direction: column;
+        align-items: center;
+        gap: 40px;
+    }
+
+    .cardsContainer {
+        flex-direction: column;
+        width: 100%;
+        padding: 15px;
+    }
+
+    .container4 {
+        flex-direction: column;
+        gap: 40px;
+        text-align: center;
+    }
+
+    form input, form textarea {
+        width: 100%;
+        max-width: 100%;
+    }
+
+    .SubmitButton {
+        width: 100%;
+    }
+
+    .container5 {
+        flex-direction: column;
+        text-align: center;
+        gap: 40px;
+        padding: 20px 0;
+    }
+
+    .img3{
+        display: none;
+    }
+}
+
+
+
+@media (max-width: 1024px) {
+
+    header {
+        padding: 10px 20px;
+    }
+
+    .Navigation {
+        gap: 20px;
+    }
+
+    .container1 h1 {
+        font-size: 55px;
+    }
+
+    .container2 {
+        flex-direction: column;
+        align-items: center;
+        gap: 60px;
+        padding: 40px;
+    }
+
+    .cardsContainer {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .img2, .img3 {
+        width: 90%;
+    }
+
+    .container4 {
+        flex-direction: column;
+        gap: 40px;
+        align-items: center;
+    }
+
+    form input, form textarea {
+        width: 90%;
+    }
+
+    .container5 {
+        flex-direction: row;
+        justify-content: space-between;
+        padding: 20px;
+    }
+
+        .img3{
+        display: none;
+    }
+
+    .cards{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .onliImageContainer img{
+        width: 100%;
+        height: auto;
+        object-fit: contain;
+        
+    }
+
+    .container2{
+        width: 100%;
+        padding: 20px;
+    }
+
+
+
+}
+
+
+@media (max-width: 1795px) {
+
+    .cards img{
+        width: 100%;
+        height: auto;
+        object-fit: cover;
+    }
+
+
+       .onliImageContainer img{
+        width: 100%;
+        height: auto;
+        object-fit: contain;
+        
+    }
+
+}
+
+
+
+@media (max-width: 1300px) {
+
+ 
+         .img3{
+        display: none;
+    }
+
+       .onliImageContainer img{
+        width: 100%;
+        height: auto;
+        object-fit: contain;
+        
+    }
+}
+@media (max-width: 800px) {
+    .container2{
+        width: auto;
+    }
+}
+
+
+
+@media (max-width: 900px) {
+    .container2{
+        width: auto;
+    }
+}
+
+
+
+
+
+@media (max-width: 320px) {
+
+  
+    header {
+        flex-direction: column;
+        align-items: center;
+        padding: 15px 0;
+    }
+
+    .Title {
+        font-size: 22px;
+        text-align: center;
+    }
+
+    .Navigation {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 10px;
+        padding-right: 0;
+    }
+
+    .Navigation a {
+        font-size: 14px;
+    }
+
+    .container1 h1 {
+        font-size: 32px;
+        text-align: center;
+        padding: 0 10px;
+    }
+
+    .textContainer {
+        flex-direction: column;
+        text-align: center;
+        gap: 10px;
+    }
+
+    .textContainer h2 {
+        font-size: 16px;
+    }
+
+    .linkContainer {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        gap: 12px;
+    }
+
+    .button1 {
+        width: 100%;
+        padding: 12px 0;
+        font-size: 16px;
+    }
+
+    .button1 a {
+        font-size: 16px;
+    }
+
+ 
+    img {
+        width: 100% !important;
+        height: auto !important;
+    }
+
+
+    .container2 {
+        flex-direction: column;
+        gap: 40px;
+        padding: 10px;
+        text-align: center;
+    }
+
+    .textContainer1 h1 {
+        font-size: 26px;
+    }
+
+    .textContainer1 h3 {
+        width: 100%;
+        font-size: 14px;
+    }
+
+
+    .cardsContainer {
+        flex-direction: column;
+        width: 100%;
+        padding: 10px;
+        gap: 30px;
+    }
+
+    .cards h1 {
+        font-size: 18px;
+    }
+
+    .cards h3 {
+        font-size: 14px;
+    }
+
+    form input,
+    form textarea {
+        width: 100%;
+        max-width: 100%;
+        font-size: 14px;
+    }
+
+    form label {
+        font-size: 14px;
+    }
+
+    .SubmitButton {
+        width: 100%;
+        padding: 12px 0;
+        font-size: 18px;
+    }
+
+    .SubmitButton a {
+        font-size: 18px;
+    }
+
+
+    .blankContainer h3 {
+        width: 100%;
+        font-size: 14px;
+        text-align: center;
+        padding: 0 10px;
+    }
+
+  
+    .container5 {
+        flex-direction: column;
+        text-align: center;
+        gap: 25px;
+        padding: 20px;
+    }
+
+    .textContainer3 h1 {
+        font-size: 24px;
+    }
+
+    .text1 h2, .text1 h3,
+    .text2 h2, .text2 h3 {
+        font-size: 14px;
+    }
+
+    .text4 h2, .text4 h3 {
+        font-size: 14px;
+    }
+}
